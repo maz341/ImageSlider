@@ -9,7 +9,7 @@ React Native, Typescript, Styled-components, Expo
 ## Demo
 
 <div align='center'>
-  <img src='https://gitlab.com/maz341/image-slider/-/raw/main/assets/video/wallpaper.gif' width='200' alt='Demo GIF'>
+  <img src='https://github.com/maz341/ImageSlider/blob/main/assets/video/wallpaper.gif' width='200' alt='Demo GIF'>
 </div>
 
 ## Demo Video
